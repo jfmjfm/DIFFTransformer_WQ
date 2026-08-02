@@ -11,6 +11,8 @@ and extends it with differential attention modules, water-quality data
 preprocessing scripts, recurrent baselines, a persistence baseline, and
 publication-oriented evaluation utilities.
 
+iTransformer repository:https://github.com/thuml/iTransformer
+
 ## Repository Contents
 
 ```text
